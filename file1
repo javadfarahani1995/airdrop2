@@ -40,7 +40,7 @@ build/Release
 node_modules/
 jspm_packages/
 
-# TypeScript v6 declaration files
+# TypeScript v7 declaration files
 typings/
 
 # TypeScript cache
