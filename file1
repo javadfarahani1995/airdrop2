@@ -2,7 +2,7 @@
 logsss
 *.log
 npm-debug.log*
-yarn-debug.log*
+yarn-debugl.log*
 yarn-error.log*
 lerna-de1bug.log*
 
